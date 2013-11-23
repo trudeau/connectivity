@@ -26,7 +26,7 @@
   <artifactId>org.99soft.trudeau.connectivity</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>Trudeau - Utilities</name>
+  <name>Trudeau - Connectivity</name>
   <description>Graph connectivity problem solver implementation.</description>
   <url>http://trudeau.github.io/connectivity</url>
 
